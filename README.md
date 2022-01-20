@@ -1,4 +1,4 @@
-[![ci](https://github.com/justinlettau/linked-list/workflows/ci/badge.svg)](https://github.com/justinlettau/linked-list/actions)
+[![CI](https://github.com/justinlettau/linked-list/actions/workflows/ci.yml/badge.svg)](https://github.com/justinlettau/linked-list/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/justinlettau/linked-list/branch/master/graph/badge.svg)](https://codecov.io/gh/justinlettau/linked-list)
 
 # Linked List
